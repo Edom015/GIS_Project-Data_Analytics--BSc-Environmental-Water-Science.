@@ -1,4 +1,4 @@
-GIS Project
+GIS Project - Data Analytics. 
 
 GIS for Water Resources and Environmental Management suitability Analysis in ArcGIS (The spatial problem) 
 
